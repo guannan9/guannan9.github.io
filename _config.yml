@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Guannan He / Personal HomePage"
+title                    : "Guannan He / HomePage"
 title_separator          : "-"
 name                     : &name "Guannan He"
 description              : &description "personal description"
