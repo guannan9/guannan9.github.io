@@ -17,7 +17,7 @@ My research lies at the intersection of **generative modeling**, **foundation mo
 
 - Foundation models for medical image understanding and generative reasoning  
 - World models for clinical simulation and prediction  
-- Multimodal learning in histopathology and radiology (e.g., H&E + spatial transcriptomics)  
+- Multimodal learning in histopathology and radiology
 - Graph-based learning and causal inference for structural modeling of medical data  
 
 ---
