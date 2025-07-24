@@ -7,28 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m **Guannan He**, a Ph.D. student in the joint Biomedical Engineering program between **Wake Forest School of Medicine** and **Virginia Tech**.
+Welcome! I’m **Guannan He (贺冠男)**, a Ph.D. student in the joint Biomedical Engineering program between **Wake Forest School of Medicine** and **Virginia Tech**.
 
-My research lies at the intersection of **generative modeling**, **computational imaging**, and **medical AI**, with a focus on **principled solutions to inverse problems** and **interpretable, data-driven methods** for clinical decision-making.
+My research lies at the intersection of **generative modeling**, **foundation models**, and **medical AI**, with a focus on building **world models** for clinical decision-making. I aim to develop **principled, interpretable, and deployable AI systems** by bridging mathematical modeling with real-world biomedical applications.
 
 ---
 
 ### 🧠 Research Interests
 
-- Diffusion probabilistic models for blind inverse problems and multimodal generation  
-- Plug-and-Play priors and Langevin dynamics in biomedical image reconstruction  
+- Foundation models for medical image understanding and generative reasoning  
+- World models for clinical simulation and prediction  
 - Multimodal learning in histopathology and radiology (e.g., H&E + spatial transcriptomics)  
 - Graph-based learning and causal inference for structural modeling of medical data  
-- Foundation models in pathology for cancer prognosis and treatment response prediction  
 
 ---
 
 ### 📌 Highlights
 
-- 🧾 **Oral Presentation (2025)**: *Promptable Counterfactual Diffusion Model* for tumor segmentation & generation  
-- 🧠 **Pioneered** graphon-based learning framework with DDPM + Repaint for matrix completion  
+- 🧾 **Oral Presentation (2024)**: *Promptable Counterfactual Diffusion Model* for tumor segmentation & generation  
+- 🧬 **Exploring** foundation-model-powered clinical world models for cancer progression forecasting  
 - 🧪 **Collaborating** with radiology & pathology teams on real-world cancer datasets  
-- 💡 **Bridging** mathematical theory and practical deployment to build trustworthy AI for medicine  
+- 💡 **Bridging** theory and deployment to build next-generation trustworthy AI for medicine  
 
 ---
 
