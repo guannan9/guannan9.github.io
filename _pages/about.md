@@ -31,5 +31,5 @@ My research lies at the intersection of **generative modeling**, **foundation mo
 
 ---
 
-I’m always open to collaboration opportunities.  
-Feel free to reach out at [guannan78@gmail.com](mailto:guannan78@gmail.com)!
+I'm always open to meaningful research collaborations.
+If you're interested in working together, please feel free to reach out via the contact form or find me on GitHub or LinkedIn.
