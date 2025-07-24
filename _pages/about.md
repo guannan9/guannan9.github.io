@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m **Guannan He (贺冠男)**, a Ph.D. student in the joint Biomedical Engineering program between **Wake Forest School of Medicine** and **Virginia Tech**.
+Welcome! I’m **Guannan He**, a Ph.D. student in the joint Biomedical Engineering program between **Wake Forest School of Medicine** and **Virginia Tech**.
 
 My research lies at the intersection of **generative modeling**, **foundation models**, and **medical AI**, with a focus on building **world models** for clinical decision-making. I aim to develop **principled, interpretable, and deployable AI systems** by bridging mathematical modeling with real-world biomedical applications.
 
