@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guannan He | Ph.D. Student in Biomedical Engineering"
+title: "Guannan He"
 author_profile: true
 redirect_from: 
   - /about/
